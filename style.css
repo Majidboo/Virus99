@@ -1,0 +1,21 @@
+h2{
+  font-family: monospace;
+  font-size: 70px;
+  text-align: center;
+  
+}
+.black{
+  background:black;
+}
+#white{
+  color: white ;
+}
+button{
+  width:100px;
+  margin:12px 0;
+  margin-left:100px;
+  padding:13px 0;
+}
+p{
+  text-align: center;
+}
